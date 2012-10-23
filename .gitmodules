@@ -1,0 +1,6 @@
+[submodule "lib/multi-mode-util"]
+	path = lib/multi-mode-util
+	url = git://github.com/tarao/multi-mode-util.git
+[submodule "lib/multi-mode"]
+	path = lib/multi-mode
+	url = git://github.com/emacsmirror/multi-mode.git
